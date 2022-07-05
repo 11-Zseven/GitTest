@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("third");
         System.out.println("linhan-branch 1");
         System.out.println("master conflict test");
+        System.out.println("linhan-branch conflict test");
     }
 }
