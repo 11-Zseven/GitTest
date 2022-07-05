@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("git.Test");
         System.out.println("edit");
         System.out.println("third");
+        System.out.println("linhan-branch 1");
     }
 }
